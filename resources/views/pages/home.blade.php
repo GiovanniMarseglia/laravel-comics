@@ -33,7 +33,7 @@
 
 
         <div class="container">
-            <ul class="d-flex py-2 justify-content-between">
+            <ul class="d-flex py-2 justify-content-between mb-0">
                 <li>
                 <i><img src="{{  Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt=""></i>
                 <p>DIGITAL COMICS</p>

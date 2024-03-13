@@ -12,7 +12,7 @@
             <img src="{{  Vite::asset('resources/img/dc-logo.png') }}" alt="">
         </figure>
 
-        <div class="d-flex align-items-center gap-3">
+        <div class="d-flex align-items-center gap-3 divnav">
             <ul class="d-flex list-unstyled gap-3">
                 <li>CHARACTERS</li>
                 <li>COMICS</li>
