@@ -5,7 +5,7 @@
 @section('content')
 
 <div class="container-fluid px-0 jumbo">
-    <span class="current">CURRENT SERIES</span>
+    <span class="current p-2 text-light">CURRENT SERIES</span>
     <div class="container-fluid container2 py-5 d-flex flex-column align-items-center">
       <div class="container">
         <!-- contenuto -->

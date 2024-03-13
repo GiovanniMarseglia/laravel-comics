@@ -28,6 +28,12 @@
         background-color: #0282F9;
         border: none;
     }
+    .current{
+        background-color: #0282F9;
+        position: absolute;
+        top: 380px;
+        left: 260px;
+    }
 }
 
 
@@ -45,9 +51,12 @@ li{
     }
 
 i{
-    width: 50px;
     img{
-        width: 100%;
+
+        min-width: 50px;
+    max-width: 50px;
+    min-height: 60px;
+    max-height: 60px;
     }
 }
 }
