@@ -1,0 +1,53 @@
+.carte{
+    div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    figure{
+        img{
+            width: 100%;
+            aspect-ratio: 1;
+        }
+    }
+    span{
+        color: white;
+    }
+
+}
+}
+
+.jumbo{
+    background-image: url("../img/jumbotron.jpg");
+    width: 100%;
+    padding-top: 400px;
+    position: relative;
+    .container2{
+        background-color: #1C1C1C;
+    }
+    button{
+        background-color: #0282F9;
+        border: none;
+    }
+}
+
+
+.icone{
+    background-color: #0282F9;
+}
+
+li{
+
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    p{
+        margin-bottom: 0px;
+    }
+
+i{
+    width: 50px;
+    img{
+        width: 100%;
+    }
+}
+}
